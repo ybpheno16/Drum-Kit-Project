@@ -10,3 +10,4 @@ Welcome to the Drum Kit Project repository! This interactive web application is 
   2.Open the HTML file in your preferred web browser.</br>
   3.Click on the drum kit elements or use the associated keyboard keys to unleash the rhythmic magic.  
    
+ 
