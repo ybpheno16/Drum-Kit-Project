@@ -11,3 +11,4 @@ Welcome to the Drum Kit Project repository! This interactive web application is 
   3.Click on the drum kit elements or use the associated keyboard keys to unleash the rhythmic magic.  
    
    
+ 
