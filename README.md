@@ -14,8 +14,7 @@ Welcome to the Drum Kit Project repository! This interactive web application is 
        
       
                  
-      
-             
+       
     
                           
     
